@@ -4,7 +4,7 @@
   "description": "Node  JS Sample Project",
   "main": "index.js",
   "scripts": {
-    "test": "istanbul cover _mocha test/**/*.js"
+    "test": "istanbul cover _mocha **/*.js"
   },
   "repository": {
     "type": "git",
